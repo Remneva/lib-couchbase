@@ -1,0 +1,1 @@
+package ru.mvideo.test.couchbase;
